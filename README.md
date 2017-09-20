@@ -56,7 +56,6 @@ dependencies {
 - [ ] 支持设置DecorView。
 
 ### 视频
-
-<iframe height=900 width=600 src='https://github.com/huangyanbin/DialogPlus/blob/master/dialogplus.mp4'  ></iframe>
+![video](https://github.com/huangyanbin/DialogPlus/blob/master/dialogplus.mp4)
 
 
