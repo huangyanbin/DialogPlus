@@ -1,5 +1,5 @@
 # DialogPlus 
-###-----------快速漂亮的Dialog
+### -----------快速漂亮的Dialog
 ------
 ### 功能简介
 - [x] Builder模式，一行代码创建Dialog;
@@ -54,3 +54,8 @@ dependencies {
 
 ### 后续改进方向
 - [ ] 支持设置DecorView。
+
+### 视频
+```html
+ <video controls="" preload="none"><source src="dialogplus.mp4" type="video/mp4"><p>Your user agent does not support the HTML5 Video element.</p></video>
+```
