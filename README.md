@@ -56,6 +56,7 @@ dependencies {
 - [ ] 支持设置DecorView。
 
 ### 视频
-```html
- <video controls="" preload="none"><source src="dialogplus.mp4" type="video/mp4"><p>Your user agent does not support the HTML5 Video element.</p></video>
-```
+
+<iframe height=900 width=600 src="https://github.com/huangyanbin/DialogPlus/edit/master/dialogplus.mp4"></iframe>
+
+
