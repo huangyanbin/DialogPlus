@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dialogLib</string>
+    <integer name="animation_default_duration">400</integer>
+</resources>

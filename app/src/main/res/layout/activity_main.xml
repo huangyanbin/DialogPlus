@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_center"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Center Dialog"
+
+        />
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_bottom"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Bottom Dialog"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_top"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="TopDialog"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_circular"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Circular Dialog"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_rotateX"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="RotateX Dialog"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_rotateY"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="RotateY Dialog"
+        />
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/btn_spring"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="Spring Dialog"
+        />
+</LinearLayout>
