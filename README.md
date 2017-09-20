@@ -57,6 +57,6 @@ dependencies {
 
 ### 视频
 
-<iframe height=900 width=600 src='https://github.com/huangyanbin/DialogPlus/blob/master/dialogplus.mp4'></iframe>
+<iframe height=900 width=600 src='https://github.com/huangyanbin/DialogPlus/blob/master/dialogplus.mp4'  ></iframe>
 
 
