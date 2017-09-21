@@ -1,6 +1,9 @@
 # DialogPlus 
 ### -----------快速漂亮的Dialog
 ------
+### 视频
+![](https://github.com/huangyanbin/DialogPlus/blob/master/20170920_203729.gif)
+
 ### 功能简介
 - [x] Builder模式，一行代码创建Dialog;
 - [x] 支持设置Gravity，默认Center;
@@ -55,8 +58,6 @@ dependencies {
 ### 后续改进方向
 - [ ] 支持设置DecorView。
 
-### 视频
-![video](https://github.com/huangyanbin/DialogPlus/blob/master/dialogplus.mp4)
-![](https://github.com/huangyanbin/DialogPlus/blob/master/20170920_203729.gif)
+
 
 
