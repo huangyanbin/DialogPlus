@@ -57,5 +57,6 @@ dependencies {
 
 ### 视频
 ![video](https://github.com/huangyanbin/DialogPlus/blob/master/dialogplus.mp4)
+![](https://github.com/huangyanbin/DialogPlus/blob/master/20170920_203729.gif)
 
 
